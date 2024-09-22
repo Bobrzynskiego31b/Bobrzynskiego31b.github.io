@@ -1,4 +1,124 @@
 Remonty balkonów
 ================
 
-Wkrótce...
+Naprawa ofasowań 2013
+---------------------
+
+.. code-block:: text
+
+  Data:    2013-09-06 09:28:15+02:00
+  Od:      administracja@i****-**d.pl
+  Do:      administracja@i****-**d.pl
+  Temat:   remont ofasowań balkonów Bobrzyńskiego 31b
+
+  Szanowni Państwo!
+
+  W poniedziałek 9.09.13 wykonawca budynku rozpocznie usuwanie usterek
+  ofasowań balkonów, zgłoszonych na zebraniu Wspólnoty. Zostaną one gruntownie
+  odczyszczone i pomalowane. Aby sprawnie wykonać to przedsięwzięcie konieczne
+  jest udostępnienie balkonów na wszystkich kondygnacjach. Prace na jednym
+  balkonie będą trwały ok. 2-3 godz. Remont ofasowań balkonów na parterze i
+  pierwszym piętrze nie wymaga obecności w lokalu, wykonawca dostanie się do
+  nich z zewnatrz. Informujemy jedynie, że pracownik Inter-Budu może się
+  pojawić na balkonie w ciągu dnia w najbliższym tygodniu.
+
+  Właścicieli lokali od II piętra proszę o podanie terminu udostępnienia
+  lokalu w dniach 9-13.09. w godz. 7.00-17.00. Prosimy o poinformowanie
+  najemców o zaplanowanych pracach.
+
+  Licząc na sprawne przeprowadzenie tego remontu, oczekuję na wiadomości od
+  Państwa z podanym zakresem czasowym udostępnienia lokali.
+
+.. code-block:: text
+
+  Data:    2013-09-10 08:51:41+02:00
+  Od:      administracja@i****-**d.pl
+  Do:      administracja@i****-**d.pl
+  Temat:   Bobrzyńskiego 31b
+
+  W nawiązaniu do przesłanych w dniu 6.09.13 informacji w sprawie remontu
+  ofasowań balkonu, prosimy o pilny kontakt w sprawie udostępnienia
+  mieszkania. Warunki atmosferyczne wkrótce mogą nie pozwolic na wykonanie
+  tych prac, dlatego ważne jest, aby jak najszybciej ustalić ten termin.
+
+Remont 2017
+-----------
+
+.. code-block:: text
+
+  Data:    2017-03-21 08:53:36+01:00
+  Od:      administracja@i****-**d.pl
+  Do:      administracja@i****-**d.pl
+  Temat:   głosowanie B.31b
+
+  Szanowni Państwo!
+
+  W nawiązaniu do wniosków złożonych na wczorajszym zebraniu Wspólnoty
+  przesyłamy ponownie projekty uchwał z kartą do głosowania. Zmiana polega na
+  wyłączeniu z uchwały nr 2 głosowania nad planem remontów na 2017 r. i
+  przeniesienie go do odrębnej uchwały (nr 5). Obecni na zebraniu byli
+  przeciwni malowaniu elewacji przy okazji remontu balkonów.  Na wniosek
+  zebrania podaję także nośniki cenowe przyjęte do planu remontu na malowanie
+  elewacji: 1.100,00 m2 x 45.00 zł/m2 = 49.500,00 zł x 1,08 = 53.460,00 zł
+  (brutto). 
+
+  Zebrani sugerowali wprowadzenie dodatkowej uchwały w sprawie podjęcia
+  decyzji o malowaniu elewacji. W naszej ocenie wyodrębnienie planu remontów
+  do oddzielnej uchwały jest wystarczające, szczególnie że zaplanowany wydatek
+  musi być elementem planu remontów.  
+
+  Na portalu LokaleNet umieszczone zostały uchwały, prosimy o głosowanie na
+  swoim indywidualnym koncie lub poprzez wypełnienie załączonej karty do
+  glosowania i odesłanie skanu. W przypadku woli większości zatwierdzającej
+  plan remontów (w tym malowanie elewacji) liczy się czas, ze względu na
+  zaplanowany remont balkonów i konieczność zarezerwowania wykonawcy, dlatego
+  prosimy o głosowanie bez zbędnej zwłoki.
+
+.. code-block:: text
+
+  Data:    2017-05-23 15:10:18+02:00
+  Od:      administracja@i****-**d.pl
+  Temat:   Zawiadomienie o podjętychb uchwałach, naliczenie od 01.07.17
+
+  Uprzejmie informujemy, że na zebraniu Wspólnoty Mieszkaniowej
+  przy ul. Bobrzyńskiego 31b oraz w trybie indywidualnego zbierania głosów
+  zostały podjęte poniższe  uchwały. Załaczamy również w związku z
+  podjęciem uchwały nr 4 nowe naliczenie opłat obowiązujace od 01.07.2017.
+  Zawiadomiamy ponadto, że około 5-12.06.17 developer rozpocznie remont
+  balkonów (od scian od str. hotelu i ul. Chmieleniec). Prosimy o
+  usunięcie wszystkich przedmiotów z posadzki balkonu (łącznie z
+  jednostami klimatyzacji). O dokładnej dacie poinformujemy Państwa
+  jeszcze raz, na poczatku czerwca (mailem i ogłoszeniem na klatce
+  schodowej).
+
+.. code-block:: text
+
+   Data:    2017-06-01 15:35:39+02:00
+   Od:      administracja@i****-**d.pl
+   Do:      administracja@i****-**d.pl
+   Temat:   remont balkonów Bobrzyńskiego 31b
+
+   Szanowni Państwo,
+
+   Potwierdzam rozpoczęcie remontu balkonów w dniu 05.06.2017. Wykonawca w tym
+   dniu zacznie ustawiać rusztowania. Jako pierwsze będą wykonane balkony na
+   ścianie od strony hotelu i klatki schodowej. Prosimy w miare postępu robót
+   usuwać z balkonów wszystkie przedmioty z posadzki (łącznie z jednostkami
+   klimatyzacji).
+
+
+Naprawy gwarancyjne 2020
+------------------------
+
+.. code-block:: text
+
+  Data:    2020-07-23 09:46:48+02:00
+  Od:      administracja@i****-**d.pl
+  Do:      administracja@i****-**d.pl
+  Temat:   ważny komunikat Bobrzyńskiego 31b
+
+  Uprzejmie informuję, że 27.07.20 w poniedziałek wykonawca będzie usuwał
+  ujawnione w okresie gwarancji usterki po remoncie balkonów. Wokół budynku
+  będzie poruszać się pojazd z podnośnikiem. Prosimy o usuniecie z balkonów
+  przedmiotów, które mogą ulec zabrudzeniu w wyniku prowadzonych prac (będzie
+  usuwany miejscowo tynk ze spodu niektórych balkonów i kładziony nowy).
