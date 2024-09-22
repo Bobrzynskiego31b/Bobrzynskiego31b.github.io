@@ -5,11 +5,11 @@ Czy pojedynczy właściciel może zbierać podpisy pod uchwałą?
 
 Niestety nie, chyba że ma upoważnienie zarządu.
 
-.. highlights::
+.. admonition:: Cytat
 
-   *Pytanie. Czy członek wspólnoty mieszkaniowej niebędący w zarządzie wspólnoty i nieposiadający upoważnienia zarządu może w imieniu administratora zbierać głosy w trybie indywidualnym?*
+   **Pytanie.** *Czy członek wspólnoty mieszkaniowej niebędący w zarządzie wspólnoty i nieposiadający upoważnienia zarządu może w imieniu administratora zbierać głosy w trybie indywidualnym?*
 
-   *Odpowiedź. Nie, członek wspólnoty mieszkaniowej nie ma takiej możliwości.*
+   **Odpowiedź.** *Nie, członek wspólnoty mieszkaniowej nie ma takiej możliwości.*
 
 Źródło z uzasadnieniem: 
 `Kto zbiera podpisy pod uchwałą? <https://wm.info.pl/kto-zbiera-podpisy-pod-uchwala/>`_
@@ -19,7 +19,7 @@ Niestety nie, chyba że ma upoważnienie zarządu.
 Czy zarząd może przerwać głosowanie nad uchwałą?
 ------------------------------------------------
 
-.. highlights::
+.. admonition:: Cytat
 
    *Zarząd Wspólnoty może przerwać głosowanie nad Uchwałami ale tylko i wyłącznie tymi które zostały już przegłosowane (uzyskały odpowiednią większość głosów).*
 
