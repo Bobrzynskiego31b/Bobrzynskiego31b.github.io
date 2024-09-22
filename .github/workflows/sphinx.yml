@@ -1,0 +1,38 @@
+name: Sphinx pages
+
+on:
+  push:
+    branches:
+      - 'sphinx-pages'
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Push Sphinx Pages
+    runs-on: ubuntu-latest
+    env:
+        INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        INPUT_WORK_DIR: .build
+        INPUT_CREATE_README: true
+        INPUT_SOURCE_DIR: docs ## existing directory inside the repo
+        INPUT_INSTALL_EXTENSIONS: true
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        ref: 'sphinx-pages'
+
+    - name: Update apt
+      run: sudo apt-get update -y
+
+    - name: Install sphinx
+      run: pip3 install --user Sphinx>=2.0.0
+
+    - name: Install plantuml
+      run: sudo apt-get install -y plantuml
+
+    - name: Create working directory
+      run: mkdir -p "${INPUT_WORK_DIR}"
+
+    - name: Build
+      run: |
+        "${INPUT_SOURCE_DIR}"/entrypoint.sh
