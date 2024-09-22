@@ -23,7 +23,7 @@ copyright = '2024, Bobrzyńskiego31b'
 author = 'Admin Bobrzyńskiego31b'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = ''
 
 
 # -- General configuration ---------------------------------------------------
@@ -52,6 +52,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #
 #html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
+#html_theme = 'sphinxdoc' # nah, menu tab z prawej strony
+#html_theme = 'bizstyle'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
