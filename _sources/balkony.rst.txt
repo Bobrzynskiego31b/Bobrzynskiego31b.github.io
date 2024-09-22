@@ -1,6 +1,46 @@
 Remonty balkonów
 ================
 
+Naprawa ofasowań 2013
+---------------------
+
+.. code-block:: text
+
+  Data:    2013-09-06 09:28:15+02:00
+  Od:      administracja@inter-bud.pl
+  Do:      administracja@inter-bud.pl
+  Temat:   remont ofasowań balkonów Bobrzyńskiego 31b
+
+  Szanowni Państwo!
+
+  W poniedziałek 9.09.13 wykonawca budynku rozpocznie usuwanie usterek
+  ofasowań balkonów, zgłoszonych na zebraniu Wspólnoty. Zostaną one gruntownie
+  odczyszczone i pomalowane. Aby sprawnie wykonać to przedsięwzięcie konieczne
+  jest udostępnienie balkonów na wszystkich kondygnacjach. Prace na jednym
+  balkonie będą trwały ok. 2-3 godz. Remont ofasowań balkonów na parterze i
+  pierwszym piętrze nie wymaga obecności w lokalu, wykonawca dostanie się do
+  nich z zewnatrz. Informujemy jedynie, że pracownik Inter-Budu może się
+  pojawić na balkonie w ciągu dnia w najbliższym tygodniu.
+
+  Właścicieli lokali od II piętra proszę o podanie terminu udostępnienia
+  lokalu w dniach 9-13.09. w godz. 7.00-17.00. Prosimy o poinformowanie
+  najemców o zaplanowanych pracach.
+
+  Licząc na sprawne przeprowadzenie tego remontu, oczekuję na wiadomości od
+  Państwa z podanym zakresem czasowym udostępnienia lokali.
+
+.. code-block:: text
+
+  Data:    2013-09-10 08:51:41+02:00
+  Od:      administracja@inter-bud.pl
+  Do:      administracja@inter-bud.pl
+  Temat:   Bobrzyńskiego 31b
+
+  W nawiązaniu do przesłanych w dniu 6.09.13 informacji w sprawie remontu
+  ofasowań balkonu, prosimy o pilny kontakt w sprawie udostępnienia
+  mieszkania. Warunki atmosferyczne wkrótce mogą nie pozwolic na wykonanie
+  tych prac, dlatego ważne jest, aby jak najszybciej ustalić ten termin.
+
 Remont 2017
 -----------
 
