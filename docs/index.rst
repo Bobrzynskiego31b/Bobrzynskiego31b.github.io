@@ -12,6 +12,11 @@ Witamy na stronach Bobrzyńskiego 31b
 
    balkony
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Najczęściej zadawane pytania
+
+   faqs
 
 
 Indeks i tabele
