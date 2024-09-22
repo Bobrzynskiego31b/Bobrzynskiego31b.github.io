@@ -112,15 +112,16 @@ echo ::endgroup::
 # sphinx extensions
 if [ "$INPUT_INSTALL_EXTENSIONS" = true ] ; then
     echo ::group::Installing sphinx extensions
-    echo "pip3 install -r $docs_src/$INPUT_SOURCE_DIR/requirements.txt"
-    pip3 install -r $docs_src/$INPUT_SOURCE_DIR/requirements.txt
+    echo "pip3 install -r $GITHUB_WORKSPACE/$INPUT_SOURCE_DIR/requirements.txt"
+    tree $GITHUB_WORKSPACE/$INPUT_SOURCE_DIR
+    pip3 install -r $GITHUB_WORKSPACE/$INPUT_SOURCE_DIR/requirements.txt
     echo ::endgroup::
 fi
 
 # sphinx-build
 echo ::group::Sphinx build html
-echo "sphinx-build -b html $docs_src/$INPUT_SOURCE_DIR $docs_html -E -d $sphinx_doctree"
-sphinx-build -b html $docs_src/$INPUT_SOURCE_DIR $docs_html -E -d $sphinx_doctree
+echo "sphinx-build -b html $GITHUB_WORKSPACE/$INPUT_SOURCE_DIR $docs_html -E -d $sphinx_doctree"
+sphinx-build -b html $GITHUB_WORKSPACE/$INPUT_SOURCE_DIR $docs_html -E -d $sphinx_doctree
 echo ::endgroup::
 
 # auto creation of README.md

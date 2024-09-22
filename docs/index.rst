@@ -14,8 +14,8 @@ Witamy na stronach Bobrzyńskiego 31b
 
 
 
-Indices and tables
-==================
+Indeks i tabele
+===============
 
 * :ref:`genindex`
 * :ref:`search`
