@@ -25,8 +25,7 @@ Witamy na stronach Bobrzyńskiego 31b
    faqs
 
 
-Indeks i tabele
-===============
+Indeks
+======
 
 * :ref:`genindex`
-* :ref:`search`
