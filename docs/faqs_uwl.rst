@@ -23,7 +23,7 @@ Czy zarząd może przerwać głosowanie nad uchwałą?
 
    *Zarząd Wspólnoty może przerwać głosowanie nad Uchwałami ale tylko i wyłącznie tymi które zostały już przegłosowane (uzyskały odpowiednią większość głosów).*
 
-Źródło z usasadnieniem:
+Źródło z uzasadnieniem:
 `Czy Zarząd Wspólnoty może przerwać głosowanie nad Uchwałami? <https://www.izkancelaria.pl/czy-zarzad-wspolnoty-moze-przerwac-glosowanie-nad-uchwalami/>`_
 (`archiwum <https://archive.ph/BCmDQ>`__)
 
@@ -48,7 +48,7 @@ Czy zarząd może przerwać głosowanie nad uchwałą?
   uchwałą, oddali głosy przeciw uchwale, uchwała i tak
   zostałaby podjęta.
 
-Źródło z usasadnieniem:
+Źródło z uzasadnieniem:
 `Raport Elektroniczne głosowanie uchwał wspólnoty mieszkaniowej <https://wspolnota.online/wp-content/themes/wspolnota-online/assets/img/elektroniczne_glosowanie_uchwal_raport.pdf>`_
 (`archiwum <https://web.archive.org/web/20240922202250/https://wspolnota.online/wp-content/themes/wspolnota-online/assets/img/elektroniczne_glosowanie_uchwal_raport.pdf>`__)
 
@@ -65,6 +65,6 @@ Tak, do czasu zamknięcia głosowania można zmieniać głos.
     głosujący mogą zmieniać swoje zdanie, wyrażając odmienną
     wolę niż uprzednio.
 
-Źródło z usasadnieniem:
+Źródło z uzasadnieniem:
 `Raport Elektroniczne głosowanie uchwał wspólnoty mieszkaniowej <https://wspolnota.online/wp-content/themes/wspolnota-online/assets/img/elektroniczne_glosowanie_uchwal_raport.pdf>`__
 (`archiwum <https://web.archive.org/web/20240922202250/https://wspolnota.online/wp-content/themes/wspolnota-online/assets/img/elektroniczne_glosowanie_uchwal_raport.pdf>`__)
