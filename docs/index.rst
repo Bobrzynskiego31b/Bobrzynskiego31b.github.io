@@ -19,6 +19,12 @@ Witamy na stronach Bobrzyńskiego 31b
    balkony
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Jak odwołać Interbud Deweloper
+
+   odwolanieib
+
+.. toctree::
    :maxdepth: 1
    :caption: Najczęściej zadawane pytania
 
