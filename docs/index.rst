@@ -8,6 +8,12 @@ Witamy na stronach Bobrzyńskiego 31b
 
 .. toctree::
    :maxdepth: 2
+   :caption: O Wspólnocie
+
+   wspolnota
+
+.. toctree::
+   :maxdepth: 2
    :caption: Bieżące i archiwalne stawki i rozliczenia
 
    rozliczenia
