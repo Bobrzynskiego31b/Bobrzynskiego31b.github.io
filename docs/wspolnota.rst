@@ -20,6 +20,9 @@ Do wspólnoty zgodnie z umowami kupna-sprzedaży należą dwie działki:
 Budynek
 -------
 
-W budynku znajdują się 42 lokale o łącznej powierzchni 2081,4 mkw.
-Powierzchnia garażu podziemnego to 1278,6 mkw.
+W budynku znajdują się 42 lokale o łącznej powierzchni 2081,4 |mkw|.
+Powierzchnia garażu podziemnego to 1278,6 |mkw|.
 Za rok 2023 rozliczono czynsz za 43 miejsca parkingowe i 27 komórek lokatorskich.
+
+.. |mkw| replace:: m\ :sup:`2`
+.. |bmkw| replace:: **m²**

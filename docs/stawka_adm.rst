@@ -1,0 +1,53 @@
+Czy 1,30 zł / |mkw| za administrację to dużo czy mało?
+======================================================
+
+W rozliczeniu miesięcznym stawka za administrację ujęta jest
+w dwóch pozycjach: za lokal mieszkalny oraz za miejsce parkingowe.
+Wynika to z tego, że nasz budynek mieszkalny oraz garaż podziemny
+mają osobne księgi wieczyste.
+
+W tym roku (2024) Interbud Wspólnoty za administrację 1 |mkw| lokalu
+mieszkalnego pobiera miesięcznie 0,85 zł, a za miejsce parkingowe 9 zł.
+
+Jednak stawki te **nie uwzględniają kosztów obsługi rachunkowo-księgowej**. Każda inna firma
+zarządzająca nieruchomościami rozlicza koszty obsługi rachunkowo-księgowej w kosztach administracji.
+Interbud Wspólnoty księguje te koszty jako część stawki za eksploatację.
+
+W planie remontów na 2024 rok obecny zarządca wykazał roczny koszt obsługi księgowej
+w kwocie 5710,75 zł za lokale i 465,08 zł za parking podziemny.
+Przy 2081,4 |mkw| lokali i 43 miejscach parkingowych po przeniesieniu tych kwot
+z eksploatacji do administracji daje to nam prawdziwą podstawę stawki za administrację:
+
+   **1,08** zł za |mkw|. i **9,90** zł za miejsce parkingowe
+
+Większość lokali w naszej wspólnocie posiada jedno miejsce parkingowe.
+Po uwspólnieniu powyższych osobnych stawek otrzymujemy efektywną stawkę za administrację,
+która jest zależna od powierzchni lokalu:
+
+.. table::
+   :align: center
+
+   +-------------------------------+--------------------------------+
+   | .. centered::                 | .. centered::                  |
+   |    Powierzchnia lokalu        |    Płacona przez nas stawka,   |
+   | .. centered::                 | .. centered::                  |
+   |    z 1 miejscem parkingowym,  |    zł / |mkw| (2024)           |
+   |    |mkw|                      |                                |
+   +===============================+================================+
+   | .. centered::  45             | .. centered:: 1,30             |
+   +-------------------------------+--------------------------------+
+   | .. centered::  50             | .. centered:: 1,28             |
+   +-------------------------------+--------------------------------+
+   | .. centered::  57             | .. centered:: 1,25             |
+   +-------------------------------+--------------------------------+
+
+Dla porównania:
+
+* Miesięczna stawka w 2024 roku za administrację (lokal + miejsce w garażu podziemnym) we Wspólnocie „Dom Pod Pegazem”, ul. W. Pola 7 w Krakowie, to **0,68 zł /** |bmkw|.
+
+Podczas spotkania Wspólnoty, które odbyło się 23 października 2024 przedłożono projekt uchwały, który obejmuje
+obniżenie stawki za administrację oraz zarządza aby Interbud Wspólnoty zaczął rozliczać koszty obsługi rachunkowo-księgowej
+w kosztach administracji. Jak dotąd zarządca nie przedłożył tego projektu uchwały pod głosowanie.
+
+.. |mkw| replace:: m\ :sup:`2`
+.. |bmkw| replace:: **m²**
