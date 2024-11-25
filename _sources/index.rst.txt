@@ -8,6 +8,12 @@ Biuletyn Bobrzyńskiego 31b
 
 .. toctree::
    :maxdepth: 2
+   :caption: Spotkanie informacyjne w/s zmiany Zarządcy
+
+   zmianazarzadcy
+
+.. toctree::
+   :maxdepth: 2
    :caption: O Wspólnocie
 
    wspolnota

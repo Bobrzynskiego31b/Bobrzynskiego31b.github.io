@@ -1,0 +1,22 @@
+Spotkanie informacyjne w/s zmiany zarządcy
+==========================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Czy 1,30zł / mkw za administrację to dużo czy mało?
+
+   stawka_adm
+
+Spotkania informacyjne będą się odbywać na klatce schodowej na półpiętrze
+pomiędzy 4-ym i 5-ym piętrem.
+
+Terminy do wyboru:
+
+* 28 listopada (czwartek), 17:00
+* 30 listopada (sobota), 17:00
+* 2 grudnia (poniedziałek), 19:00
+* 8 grudnia (niedziela), 15:00
+* 10 grudnia (wtorek), 20:00
+* 18 grudnia (środa), 18:00
+* 20 grudnia (piątek), 16:00
+
