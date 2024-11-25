@@ -1,5 +1,5 @@
-Czy 1,30zł / mkw za administrację to dużo czy mało?
-===================================================
+Czy 1,30 zł / |mkw| za administrację to dużo czy mało?
+======================================================
 
 W rozliczeniu miesięcznym stawka za administrację ujęta jest
 w dwóch pozycjach: za lokal mieszkalny oraz za miejsce parkingowe.
