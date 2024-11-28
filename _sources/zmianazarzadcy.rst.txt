@@ -1,12 +1,6 @@
 Spotkanie informacyjne w/s zmiany zarządcy
 ==========================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Czy 1,30zł / m² za administrację to dużo czy mało?
-
-   stawka_adm
-
 Spotkania informacyjne będą się odbywać na klatce schodowej na półpiętrze
 pomiędzy 4-ym i 5-ym piętrem.
 
