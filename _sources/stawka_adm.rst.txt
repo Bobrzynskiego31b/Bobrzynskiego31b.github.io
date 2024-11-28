@@ -53,4 +53,4 @@ obniżenie stawki za administrację oraz zarządza aby Interbud Wspólnoty zacz�
 w kosztach administracji. Jak dotąd zarządca nie przedłożył tego projektu uchwały pod głosowanie.
 
 .. |mkw| replace:: m\ :sup:`2`
-.. |bmkw| replace:: **m**\ :sup:`2`
+.. |bmkw| replace:: **m²**

@@ -3,7 +3,7 @@ Spotkanie informacyjne w/s zmiany zarządcy
 
 .. toctree::
    :maxdepth: 2
-   :caption: Czy 1,30zł / mkw za administrację to dużo czy mało?
+   :caption: Czy 1,30zł / m² za administrację to dużo czy mało?
 
    stawka_adm
 
@@ -20,3 +20,12 @@ Terminy do wyboru:
 * 18 grudnia (środa), 18:00
 * 20 grudnia (piątek), 16:00
 
+Do czytania
+-----------
+
+* Kancelaria Trzeciak-Wach & Partnerzy `Zmiana zarządcy wspólnoty mieszkaniowej krok po kroku <https://prawomieszkaniowe.pl/baza-wiedzy/zmiana-zarzadcy-wspolnoty-mieszkaniowej>`_
+* Przewodnik z pierwszej ręki `Odwołanie Interbud <https://odwolanieib.wordpress.com/>`_
+* :download:`Wzór pełnomocnictwa <dokumenty/Pełnomocnictwo-blank.pdf>`
+
+.. |mkw| replace:: m\ :sup:`2`
+.. |bmkw| replace:: **m²**
