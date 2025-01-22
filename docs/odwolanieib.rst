@@ -1,13 +1,13 @@
-Odwołanie Interbud Deweloper
-============================
+Odwołanie zarządcy
+==================
 
-Do tej pory w Krakowie udało się odwołać Interbud Deweloper
+Ciekawostka: do tej pory w Krakowie odwołano Inter-bud Deweloper
 z funkcji zarządcy nieruchomości w `sześciu wspólnotach <https://odwolanieib.wordpress.com/2023/03/23/wspolnoty-po-zmianie/>`_ (Piasta Towers, Panorama Kliny, osiem budynków, 688 mieszkań,
 10 lokali użytkowych, w tym **biuro sprzedaży Inter-Bud Developer**). Największa z tych wspólnot liczyła 200 mieszkań.
 
 Osoby dzięki którym udało się to osiągnąć przygotowały
 |przewodnik|_
-wraz ze wzorami pism, który pozwala powtórzyć ich drogę.
+wraz ze wzorami pism, który pozwala powtórzyć ich kroki.
 
 Jedyny koszt po stronie Wspólnoty to opłacenie notariusza.
 
