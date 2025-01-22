@@ -25,6 +25,7 @@ Biuletyn Bobrzyńskiego 31b
    balkony
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
    :caption: Jak odwołać Interbud Deweloper
 
